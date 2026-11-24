@@ -4,7 +4,7 @@
 
   <!-- DYNAMIC ANIMATED TYPING HEADER -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=Next.js+14+%26+React+18+Full-Stack+Analytics;Claude+API+(Anthropic)+%26+OpenAI+Codex+Integration;Power+BI+(DAX%2C+Star+Schema)+%26+PostgreSQL;TypeScript+%26+Node.js+RESTful+APIs;Open+to+100%25+Remote+AI+%26+Data+Product+Roles" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=Next.js+14+%26+React+18+Full-Stack+Analytics;Claude+(Anthropic)+%26+OpenAI+Codex;Power+BI+(DAX%2C+Star+Schema)+%26+PostgreSQL;TypeScript+%26+Node.js+RESTful+APIs;Open+to+100%25+Remote+AI+%26+Data+Product+Roles" alt="Typing SVG" />
   </a>
 </div>
 
@@ -26,7 +26,7 @@
 ### 👨‍💻 Executive Summary & Profile
 
 - 📊 **Background:** B.Com (Accounting) graduate bridging business acumen with full-stack engineering and applied generative AI.
-- 🎯 **What I Do:** Build end-to-end AI data products—from backend database querying (PostgreSQL) and schema validation (TypeScript) to web dashboards (Next.js 14, React 18), enterprise BI (Power BI Star Schema), and intelligent LLM workflows (Claude API, OpenAI Codex).
+- 🎯 **What I Do:** Build end-to-end AI data products—from backend database querying (PostgreSQL, MongoDB) and schema validation (TypeScript) to web dashboards (Next.js 14, React 18), enterprise BI (Power BI Star Schema), and intelligent LLM workflows (Claude, OpenAI Codex).
 - 🌐 **Work Mode:** **100% Remote Ready** (Self-directed execution, clean Markdown documentation, Git/GitHub version control, and asynchronous collaboration).
 
 ---
@@ -37,10 +37,10 @@
 
 | Domain | Technologies, Frameworks & Libraries |
 | :--- | :--- |
-| **Applied AI & LLMs** | <img src="https://img.shields.io/badge/Claude_API-Anthropic-orange?style=flat-square&logo=anthropic"/> <img src="https://img.shields.io/badge/OpenAI_GPT--4o-Codex-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Prompt_Engineering-Context_Injection-blue?style=flat-square"/> <img src="https://img.shields.io/badge/Streaming_APIs-Realtime-darkgreen?style=flat-square"/> |
+| **Applied AI & LLMs** | <img src="https://img.shields.io/badge/Claude-Anthropic-orange?style=flat-square&logo=anthropic"/> <img src="https://img.shields.io/badge/Codex-OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/> |
 | **Full-Stack Web** | <img src="https://img.shields.io/badge/Next.js_14-App_Router-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React_18-Hooks_%26_Context-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-Express_REST-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-Strict_Mode-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-ES2024-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> |
 | **Business Intelligence** | <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/DAX-Time_Intelligence-blue?style=flat-square"/> <img src="https://img.shields.io/badge/Star_Schema-Enterprise_Modeling-green?style=flat-square"/> <img src="https://img.shields.io/badge/Microsoft_Excel-Power_Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/> |
-| **Databases & Data Eng** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> |
+| **Databases & Data Eng** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> |
 | **DevOps & Remote Ops** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-Deployment-black?style=flat-square&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Async_Workflow-Remote-teal?style=flat-square"/> |
 
 </div>
